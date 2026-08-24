@@ -12,13 +12,13 @@
    ============================================================ */
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAgM_Lx8U6hUkVYYyJGgtsoDFMs5ISRnhg",
-  authDomain: "damcuoi-bf14c.firebaseapp.com",
-  projectId: "damcuoi-bf14c",
-  storageBucket: "damcuoi-bf14c.firebasestorage.app",
-  messagingSenderId: "956936083346",
-  appId: "1:956936083346:web:b8fc0cc58187b34dc9534b",
-  measurementId: "G-TBR7KMJQXT"
+  apiKey: "AIzaSyBXvhbFnhk6K1sznX6hhARQkpJ4j0q7aIM",
+  authDomain: "thiepmoi-9cd30.firebaseapp.com",
+  projectId: "thiepmoi-9cd30",
+  storageBucket: "thiepmoi-9cd30.firebasestorage.app",
+  messagingSenderId: "48211509946",
+  appId: "1:48211509946:web:97753a84ce56008884b883",
+  measurementId: "G-BM3KQ0YKQ8"
 };
 
 // Dùng Firebase SDK bản "compat" (nạp qua thẻ <script>, không cần build tool)
